@@ -7,4 +7,4 @@ Howzit.
 
 Changed.
 
-First Change. Second change.
+First Change. Second change. Third change.
