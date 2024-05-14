@@ -12,3 +12,5 @@ First Change. Third change.
 Practise mixed reset.
 
 Practise recovering deleted commits with the reflog.
+
+New changes, wrong message. 
