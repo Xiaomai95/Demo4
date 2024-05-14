@@ -17,6 +17,4 @@ New changes, wrong message.
 
 First commit.
 
-Second commit.
-
 Third commit.
