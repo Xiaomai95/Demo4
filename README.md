@@ -20,3 +20,5 @@ First commit.
 Second commit.
 
 Third commit.
+
+Change before styles.
