@@ -1,6 +1,5 @@
 # Yo
 
-
 Howzit.
 
 ## Another practise run
@@ -13,7 +12,7 @@ Practise mixed reset.
 
 Practise recovering deleted commits with the reflog.
 
-New changes, wrong message. 
+New changes, wrong message.
 
 First commit.
 
